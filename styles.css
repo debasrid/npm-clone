@@ -1,0 +1,122 @@
+*{
+  margin: 5px 10px;
+  padding: 0;
+  }
+
+
+nav {
+    background-color: #fff;
+    color: rgba(0, 0, 0, 0.8);
+    padding-top: 15px;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight:bold;
+    border-bottom:1px solid grey;
+    width:100%;  
+  }
+  
+  nav a {
+    color: rgba(0,0,0,0.8);
+    text-decoration: none;
+   }
+
+  .top-left {
+    display: block;
+    padding:0;
+    margin: 0 30px;
+    width: 40%;
+    position: absolute;
+  }
+
+  .heart{
+    height:100px;
+    
+  } 
+
+  .top-links {
+    display: block;
+    padding: 0;
+    margin: 0 20px 0 0;
+    position: relative;
+    float:right;
+    width: auto;
+   
+  }
+  
+  .top-links li {
+    display: inline-block;
+    margin: 0 10px;
+   }
+
+   Header{
+    background-color: #fff;
+   
+  }
+  .top-header{
+    margin:0 auto;
+    width:auto;
+    height: 50px;
+    
+  }
+  .logo {
+    height: 30px;
+    width:5%;
+    float:left;
+   
+  }
+
+  #product_search{
+    font: grey;
+    background-color: rgb(196, 193, 193);
+    width:75%;
+    height:40px;
+    float: left;
+    
+  }
+  .button{
+    
+    color:white;
+    float: left;
+    width:5%;      
+  }
+  .right-box{
+    text-decoration: none; 
+    float: left;
+    width:10%;  
+    color: rgba(0,0,0,0.8);
+      
+  }
+  .section-top{
+    background-image: url('city-scape.svg');
+    background-color: rgb(32, 101, 136);
+    height: 550px;
+    width:100%;
+  }
+  .section-top-text{
+    margin: 0px 85% 0px 15%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    height: 50%;
+    width: 30%;
+    padding-top: 12%;
+    
+  }
+.section-orgs{
+  background-color: rgb(39, 53, 71);
+  margin: 0px auto;
+  
+  
+}
+.section-org-img{
+  width:30%;
+  padding: 12%;
+ 
+}
+.section-org-text{
+  color: #fff;
+  
+  
+
+}
