@@ -77,15 +77,16 @@ nav {
     
   }
   .search{
-    background-color: red;   
+    background-color: rgb(199, 30, 30); 
+    color: #fff;  
     height: 40px;
-    padding: 5px 5px ;
-    border-top-right-radius:10px;
-    border-bottom-right-radius:10px;
+    padding: 5px 10px ;
+    border-top-right-radius:5px;
+    border-bottom-right-radius:5px;
     font-size: 16px;
     font-weight: 300;
     float:left;
-    border-color: none;   
+    border-style: none;   
   }
   .right-box{
     text-decoration: none; 
@@ -118,7 +119,7 @@ nav {
     border-radius:50px;
     font-size: 16px;
     font-weight: 300;
-    border-color: none;   
+    border-style: none;   
   }
 .section-orgs{
   background-color: rgb(39, 53, 71);
@@ -156,6 +157,17 @@ nav {
   padding:12%;
   line-height: 140%;
 }
+.orgsign{
+  background-color: rgb(173, 13, 13);   
+  height: 40px;
+  padding: 5px 25%;
+  border-radius:50px;
+  font-size: 16px;
+  font-weight: 300;
+  border-style: none; 
+  color: #fff;
+}
+
 .section-whatmake{
   margin:0 auto;
    
@@ -177,4 +189,15 @@ nav {
   padding:5% 15px;
   float: left;
 
+}
+.install{
+  background-color: rgb(34, 35, 46);  
+  color: #fff; 
+  height: 40px;
+  border-style: none;  
+  padding: 7px 10%;
+  border-radius:50px;
+  font-size: 16px;
+  font-weight: 300;
+  border-color: none;   
 }
